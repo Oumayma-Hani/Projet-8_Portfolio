@@ -20,7 +20,7 @@ function Footer() {
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/Oumayma-Hani-Bhouri"
+                href="https://github.com/Oumayma-Hani"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="le lien vers github"
@@ -30,7 +30,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/oumayma-b-8b89a4182"
+                href="www.linkedin.com/in/oumayma-hani"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="le lien vers Linkedin"
