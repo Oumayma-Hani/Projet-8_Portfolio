@@ -30,7 +30,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="www.linkedin.com/in/oumayma-hani"
+                href="https://www.linkedin.com/in/oumayma-hani"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="le lien vers Linkedin"
